@@ -9,3 +9,4 @@ def add(a, b):
 sum = add(10, 10)
 print(sum)
 
+"""This is a simple Python script that defines two functions: `greet` and `add`."""
